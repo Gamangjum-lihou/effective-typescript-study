@@ -36,16 +36,24 @@ Item 4  ~ Item 7
 > | 신현호 | 이예슬 | 강철원 | 김민재 |
 <br>
 
+> **4주차** ( 1 / 16 ~ 1 / 20 ) 
+
+> | Item 16, 21, 24 | Item 17, 22 | Item 18, 25 | Item 19, 20 |
+> | :-:| :-: | :-: | :-: | 
+> | 강철원 | 신현호 | 김민재 | 이예슬 |
+<br>
+
+
 ---
 
 ## ✅ 체크리스트 ( 5명 )
 
 | 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
 | ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |
-| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ |
-| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  |
-| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  |
-| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  |
+| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |
+| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |
+| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |
+| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |
 
 ____
 
