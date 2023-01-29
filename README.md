@@ -46,6 +46,15 @@ Item 4  ~ Item 7
 > | 강철원 | 신현호 | 김민재 | 이예슬 |
 <br>
 
+----
+
+> **6주차** ( 1 / 30 ~ 2 / 4 ) 
+
+> | Item 26 | Item 27 | Item 28 | Item 29 |
+> | :-:| :-: | :-: | :-: | 
+> | 김민재 | 이예슬 | 강철원 | 신현호 |
+<br>
+
 
 ---
 
@@ -53,10 +62,10 @@ Item 4  ~ Item 7
 
 | 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
 | ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |
-| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |
-| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |
-| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |
-| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |
+| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |✅ |
+| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |✅ |
+| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |✅ |
+| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |✅ |
 
 ____
 
