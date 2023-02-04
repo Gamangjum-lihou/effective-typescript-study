@@ -55,16 +55,16 @@ Item 4  ~ Item 7
 > | 김민재 | 이예슬 | 강철원 | 신현호 |
 <br>
 
-## 발표자료
+### 💎 발표자료
 
 ![image.png](https://user-images.githubusercontent.com/76567238/216770688-23697f3a-51cb-44e4-b7f6-6bf4b33c8000.png) |![image.png](https://user-images.githubusercontent.com/76567238/216770679-3177a1de-82f8-4004-93dd-22c9d62672f8.png) | 
 :---: | :---: |
-| <이예슬> Item 27 - 함수형 기법과 라이브러리로 타입흐름 유지하기 | <김민재> Item 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기 
+| 📚 Item 27 함수형 기법과 라이브러리로 타입흐름 유지하기 <br> <이예슬>  |  📚 Item 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기 <br> <김민재>
 
 
 ![img.png](https://user-images.githubusercontent.com/76567238/216771614-fb5fc9df-8174-4fa9-aec6-9ec9742f24f5.png) |![image.png](https://user-images.githubusercontent.com/76567238/216771469-3a491ef2-04cc-459d-8c14-fd59838e3045.png)
 :---: | :---: |
-|<강철원> Item 28 유효한 상태만 표현하는 타입을 지향하기| <신현호> Item 29 사용할 때는 너그럽게, 생성할 때는 엄격하게 
+|[📚 Item 28 유효한 상태만 표현하는 타입을 지향하기 <br> <강철원> ](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/28_%EC%9C%A0%ED%9A%A8%ED%95%9C%20%EC%83%81%ED%83%9C%EB%A7%8C%20%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A7%80%ED%96%A5%ED%95%98%EA%B8%B0/Item28-%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)| [📚 Item 29 사용할 때는 너그럽게, 생성할 때는 엄격하게 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/29_%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EB%84%88%EA%B7%B8%EB%9F%BD%EA%B2%8C%2C%20%EC%83%9D%EC%84%B1%ED%95%A0%20%EB%95%8C%EB%8A%94%20%EC%97%84%EA%B2%A9%ED%95%98%EA%B2%8C/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ----
 
