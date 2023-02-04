@@ -55,17 +55,46 @@ Item 4  ~ Item 7
 > | 김민재 | 이예슬 | 강철원 | 신현호 |
 <br>
 
+## 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/216770688-23697f3a-51cb-44e4-b7f6-6bf4b33c8000.png) |![image.png](https://user-images.githubusercontent.com/76567238/216770679-3177a1de-82f8-4004-93dd-22c9d62672f8.png) | 
+:---: | :---: |
+| <이예슬> Item 27 - 함수형 기법과 라이브러리로 타입흐름 유지하기 | <김민재> Item 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기 
+
+
+![img.png](https://user-images.githubusercontent.com/76567238/216771614-fb5fc9df-8174-4fa9-aec6-9ec9742f24f5.png) |![image.png](https://user-images.githubusercontent.com/76567238/216771469-3a491ef2-04cc-459d-8c14-fd59838e3045.png)
+:---: | :---: |
+|<강철원> Item 28 유효한 상태만 표현하는 타입을 지향하기| <신현호> Item 29 사용할 때는 너그럽게, 생성할 때는 엄격하게 
+
+----
+
+> **7주차** ( 2 / 5 ~ 2 / 11 ) 
+
+> | Item 31 | Item 32 | Item 33 | Item 34 |
+> | :-:| :-: | :-: | :-: | 
+> | 신현호 | 이예슬 | 강철원 | 김민재 |
+<br>
+
 
 ---
 
-## ✅ 체크리스트 ( 5명 )
 
-| 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 |
-| ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |
-| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |✅ |
-| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |✅ |
-| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |✅ |
-| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |✅ |
+
+
+
+
+---
+
+
+
+## ✅ 체크리스트 ( 4명 )
+
+| 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 |
+| ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |  :--: |
+| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |✅ |✅ |
+| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |
+| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |
+| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |
 
 ____
 
