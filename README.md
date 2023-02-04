@@ -59,7 +59,7 @@ Item 4  ~ Item 7
 
 ![image.png](https://user-images.githubusercontent.com/76567238/216770688-23697f3a-51cb-44e4-b7f6-6bf4b33c8000.png) |![image.png](https://user-images.githubusercontent.com/76567238/216770679-3177a1de-82f8-4004-93dd-22c9d62672f8.png) | 
 :---: | :---: |
-| 📚 Item 27 - 함수형 기법과 라이브러리로 타입흐름 유지하기 <br> <이예슬>  |  📚 Item 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기 <br> <김민재>
+| 📚 Item 27 함수형 기법과 라이브러리로 타입흐름 유지하기 <br> <이예슬>  |  📚 Item 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기 <br> <김민재>
 
 
 ![img.png](https://user-images.githubusercontent.com/76567238/216771614-fb5fc9df-8174-4fa9-aec6-9ec9742f24f5.png) |![image.png](https://user-images.githubusercontent.com/76567238/216771469-3a491ef2-04cc-459d-8c14-fd59838e3045.png)
