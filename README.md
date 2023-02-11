@@ -48,13 +48,16 @@ Item 4  ~ Item 7
 
 ----
 
-> **6주차** ( 1 / 30 ~ 2 / 4 ) 
+<br>
+
+
+## **6주차** ( 1 / 30 ~ 2 / 4 ) 
 
 > | Item 26 | Item 27 | Item 28 | Item 29 |
 > | :-:| :-: | :-: | :-: | 
 > | 김민재 | 이예슬 | 강철원 | 신현호 |
-<br>
-
+   
+   
 ### 💎 발표자료
 
 ![image.png](https://user-images.githubusercontent.com/76567238/216770688-23697f3a-51cb-44e4-b7f6-6bf4b33c8000.png) |![image.png](https://user-images.githubusercontent.com/76567238/216770679-3177a1de-82f8-4004-93dd-22c9d62672f8.png) | 
@@ -68,33 +71,71 @@ Item 4  ~ Item 7
 
 ----
 
-> **7주차** ( 2 / 5 ~ 2 / 11 ) 
+<br>
+
+## **7주차** ( 2 / 5 ~ 2 / 11 ) 
 
 > | Item 31 | Item 32 | Item 33 | Item 34 |
 > | :-:| :-: | :-: | :-: | 
 > | 신현호 | 이예슬 | 강철원 | 김민재 |
+   
+   
+### 💎 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/218285089-442e34e3-b57f-4375-85cc-51cd2c60ce69.png)|![image.png](https://user-images.githubusercontent.com/76567238/218285132-316eaeb3-8f07-4c75-a158-498bffebca70.png) | 
+:---: | :---: |
+| [📚 Item 31 타입 주변에 null 값 배치하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/31_%ED%83%80%EC%9E%85%20%EC%A3%BC%EB%B3%80%EC%97%90%20null%20%EA%B0%92%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)  |  [📚 Item 32  인터페이스의 유니온을 사용하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/32_%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%98%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item32_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.pdf)
+
+
+![image.png](https://user-images.githubusercontent.com/76567238/218285216-224de13a-adf8-4cd8-8d9e-b7fdf7bcf44a.png)|![image.png](https://user-images.githubusercontent.com/76567238/218285293-b3398709-6b69-454d-b4de-f942854560ec.png) | 
+:---: | :---: |
+| [📚 Item 33 string 타입보다 더 구체적인 타입 사용하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/33_string%20%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%20%EB%8D%94%20%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9D%B8%20%ED%83%80%EC%9E%85%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(Item33).pdf)  |  📚 Item 34  <br> <김민재>
+
+
+---
+
 <br>
 
+## **8주차** ( 2 / 12 ~ 2 / 18 ) 
+
+> | Item 35 | Item 38 | Item 39,40 | Item 41 |
+> | :-:| :-: | :-: | :-: | 
+> | 강철원 | 김민재 | 이예슬 | 신현호 |
+
+
+
+
 
 ---
 
+<br>
 
+## **9주차** ( 2/ 19 ~ ? ) 
 
-
-
+> | Item 42 | Item 43 | Item 44 | Item 45 |
+> | :-:| :-: | :-: | :-: | 
+> | ? | ? | ? | ? |
 
 ---
 
+<br>
 
+## **10주차** ( 2/ ? ~ ? ) 
+
+> | Item 46 | Item 48  | Item 49 | Item 50,51 |
+> | :-:| :-: | :-: | :-: | 
+> | ? | ? | ? | ? |
+
+---
 
 ## ✅ 체크리스트 ( 4명 )
 
-| 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 |
-| ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |  :--: |
-| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |✅ |✅ |
-| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |
-| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |
-| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |
+| 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 |8주차 |9주차 |10주차 |
+| ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |  :--: |:--: |:--: |:--: |
+| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |✅ |✅ |✅ |
+| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |✅ |
+| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |✅ |
+| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |✅ |
 
 ____
 
