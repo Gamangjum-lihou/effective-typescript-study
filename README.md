@@ -38,7 +38,15 @@ Item 4  ~ Item 7
 > | Item 8 | Item 9 | Item 10 | Item 11 |
 > | :-:| :-: | :-: | :-: | 
 > | 강철원 | 신현호 | 김민재 | 이예슬 |
-<br>
+
+   
+### 💎 발표자료
+
+<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> | <img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> | 
+:---: | :---: |
+| [📚 Item 8 타입 공간과 값 공간의 심벌 구분하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/04_%EA%B5%AC%EC%A1%B0%EC%A0%81%20%ED%83%80%EC%9D%B4%ED%95%91%EC%97%90%20%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0/Item4_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC%20.pdf](https://github.com/Gamangjum-lihou/effective-typescript-study/tree/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/08_%ED%83%80%EC%9E%85%20%EA%B3%B5%EA%B0%84%EA%B3%BC%20%EA%B0%92%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EC%8B%AC%EB%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0))  |  [📚 Item 9 타입 단언보다는 타입 선언을 사용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/05_any%20%ED%83%80%EC%9E%85%20%EC%A7%80%EC%96%91%ED%95%98%EA%B8%B0/Item5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8.pdf) |
+<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> |<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> <br>
+|[📚 Item 10 객체 래퍼 타입 피하기 <br> <김민재>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/06_%ED%8E%B8%EC%A7%91%EA%B8%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0/Item6_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B0%95%EC%B2%A0%EC%9B%90.key)| [📚 Item 11 잉여 속성 체크의 한계 인지하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/11_%EC%9E%89%EC%97%AC%20%EC%86%8D%EC%84%B1%20%EC%B2%B4%ED%81%AC%EC%9D%98%20%ED%95%9C%EA%B3%84%20%EC%9D%B8%EC%A7%80%ED%95%98%EA%B8%B0/Item11_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.pdf)
 
 ---
 
