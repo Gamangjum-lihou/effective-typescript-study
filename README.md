@@ -9,6 +9,14 @@
 > | :-:| :-: | :-: |
 > | Item 1 | Item 2 | Item 3 |
 
+   
+### 💎 발표자료
+
+ 진행 X | 진행 X | 
+:---: | :---: |
+| 📚 Item 1 타입스크립트와 자바스크립트의 관계 이해하기 <br>  |  📚 Item 2 타입스크립트 설정 이해하기 <br> |
+<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> |진행 X
+|[📚 Item 3 코드 생성과 타입이 관계없음을 이해하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/03_%EC%BD%94%EB%93%9C%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EA%B4%80%EA%B3%84%EC%97%86%EC%9D%8C%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/Item3_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8.pdf)| 진행 X
 ---
 
 > **2주차** ( 1 / 2 ~ 1 / 7 )       
