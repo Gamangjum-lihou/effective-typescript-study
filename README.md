@@ -57,7 +57,15 @@ Item 4  ~ Item 7
 > | :-:| :-: | :-: | :-: | 
 > | 신현호 | 이예슬 | 강철원 | 김민재 |
 
-<br>
+
+   
+### 💎 발표자료
+
+<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> | <img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> | 
+:---: | :---: |
+| [📚 Item 12 함수 표현식에 타입 적용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/tree/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/12_%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D%EC%97%90%20%ED%83%80%EC%9E%85%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)  |  [📚 Item 13 타입과 인터페이스의 차이점 알기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/13_%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%20%EC%95%8C%EA%B8%B0/item13_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.key) |
+<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> |<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> <br>
+|[📚 Item 14 타입 연산과 제너릭 사용으로 반복 줄이기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/14_%ED%83%80%EC%9E%85%20%EC%97%B0%EC%82%B0%EA%B3%BC%20%EC%A0%9C%EB%84%88%EB%A6%AD%20%EC%82%AC%EC%9A%A9%EC%9C%BC%EB%A1%9C%20%EB%B0%98%EB%B3%B5%20%EC%A4%84%EC%9D%B4%EA%B8%B0/effectiveTypescript-Item14.key)| [📚 Item 15 동적 데이터에 인덱스 시그니처 사용하기 <br> <김민재>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/15_%EB%8F%99%EC%A0%81%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item15_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B9%80%EB%AF%BC%EC%9E%AC.pptx)
 
 ----
 
