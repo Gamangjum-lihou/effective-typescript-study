@@ -208,7 +208,7 @@ Item 4  ~ Item 7
 
 ### 💎 발표자료
 
-![image.png](https://user-images.githubusercontent.com/76567238/230234771-080ebcb5-b43d-4f7c-9344-11674311dd24.png)|![image.png](https://user-images.githubusercontent.com/76567238/230233498-ad116514-8e8a-4825-bc9e-fc35f3719614.png) | 
+![image.png](https://user-images.githubusercontent.com/76567238/230234771-080ebcb5-b43d-4f7c-9344-11674311dd24.png)|![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png) | 
 :---: | :---: |
 | [📚 Item 50,51 오버로딩 타입보다는 조건부 타입을 사용하기 <br> 의존성 분리를 위해 미러 타입 사용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/50_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2050~51).pdf)  |  📚 Item 52 테스팅 타입의 함정에 주의하기 <br> <이예슬>
 
@@ -226,7 +226,19 @@ Item 4  ~ Item 7
 > | :-:| :-: | :-: | 
 > | 강철원 | 이예슬 | 신현호 |  
 
+### 💎 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/230237250-283b8391-e9c2-4c58-a3a5-a495e90c4e97.png)|![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png) | 
+:---: | :---: |
+| [📚 Item 58 모던 자바스크립트로 작성하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/58_%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(Item58).pdf)  |  📚 Item 59 <작업중> <br> <이예슬>
+
+![image.png](https://user-images.githubusercontent.com/76567238/230237820-59a5390c-7f7e-4ed4-a79c-c2505ffabeb2.png)|![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png) | 
+:---: | :---: |
+| [📚 Item 60 allowJs로 타입스크립트와 자바스크립트 같이 사용하기  <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/60_allowJs%EB%A1%9C%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B0%99%EC%9D%B4%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2060).pdf)  |  📚 
+
 <br>
+
+---
 
 ## **14주차** ( 4/3 ~ 4/ 8 )
 
