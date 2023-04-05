@@ -4,24 +4,22 @@
 
 ---
 ## 📅 일정
-> **1주차** ( 12 / 23 ~ 12 / 29 )
+> **1주차** ( 12 / 23 ~ 12 / 29 ) [책 내용 정리]
 > | DAY 1 (금, 토) | DAY 2 (월, 화) | DAY 3 (수, 목) |
 > | :-:| :-: | :-: |
 > | Item 1 | Item 2 | Item 3 |
 
    
-### 💎 발표자료
 
- 진행 X | 진행 X | 
-:---: | :---: |
-| 📚 Item 1 타입스크립트와 자바스크립트의 관계 이해하기 <br>  |  📚 Item 2 타입스크립트 설정 이해하기 <br> |
-<img width="500px" alt="item 3 코드 생성과 타입이 관계없음을 이해하기 썸네일" src="https://user-images.githubusercontent.com/48716775/225659339-e7c7efd4-dfd2-4c1a-b1da-8bf98de884b0.png"> |진행 X
-|[📚 Item 3 코드 생성과 타입이 관계없음을 이해하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/03_%EC%BD%94%EB%93%9C%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EA%B4%80%EA%B3%84%EC%97%86%EC%9D%8C%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/Item3_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8.pdf)| 진행 X
 ---
 
-> **2주차** ( 1 / 2 ~ 1 / 7 )       
+<br>
 
-Item 4  ~ Item 7
+## **2주차** ( 1 / 2 ~ 1 / 7 )       
+
+> | Item 4 | Item 5 | Item 6 |
+> | :-:| :-: | :-: |
+> | 이예슬 | 신현호 | 강철원 | 
    
 ### 💎 발표자료
 
@@ -32,6 +30,8 @@ Item 4  ~ Item 7
 |[📚 Item 6 편집기를 사용하여 타입 시스템 탐색하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/06_%ED%8E%B8%EC%A7%91%EA%B8%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0/Item6_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B0%95%EC%B2%A0%EC%9B%90.key)| 📚 Item 7 타입이 값들의 집합이라고 생각하기 <br>
 
 ---
+
+<br>
 
 > **3주차** ( 1 / 9 ~ 1 / 15 ) 
 
