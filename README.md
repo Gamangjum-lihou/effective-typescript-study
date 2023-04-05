@@ -159,7 +159,20 @@ Item 4  ~ Item 7
 
 > | Item 42 | Item 43 | Item 44 | Item 45 |
 > | :-:| :-: | :-: | :-: | 
-> | 신현호 | 이예슬 | 김민재 | 강철원 |
+> | 신현호 | 김민재 | 이예슬 | 강철원 |
+
+
+
+### 💎 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/230231667-cc78faad-163e-4a1b-93b5-bc787fe27839.png)|![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png) | 
+:---: | :---: |
+| [📚 Item 42 모르는 타입의 값에는 any 대신 unknown 사용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/42_%EB%AA%A8%EB%A5%B4%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%98%20%EA%B0%92%EC%97%90%EB%8A%94%20any%20%EB%8C%80%EC%8B%A0%20unknown%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2042).pdf)  |  📚 Item 43  <br> <김민재>
+
+
+![image.png](https://user-images.githubusercontent.com/76567238/230232739-7f684e46-fcc2-4643-91a9-7c53366dce8e.png)|![image.png](https://user-images.githubusercontent.com/76567238/230232949-c1e3ff75-9a00-4323-a80e-f7f9cae0e33f.png) | 
+:---: | :---: |
+| [📚 Item 44 타입 커버리지를 추적하여 타입 안전성 유지하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/44_%ED%83%80%EC%9E%85%20%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80%EB%A5%BC%20%EC%B6%94%EC%A0%81%ED%95%98%EC%97%AC%20%ED%83%80%EC%9E%85%20%EC%95%88%EC%A0%84%EC%84%B1%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0/Item44_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.pdf)  |  [📚 Item 45 devDependencies에 typescript와 @types추가하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/45_devDependencies%EC%97%90%20typescript%EC%99%80%20%40types%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(Item45).pdf)  
 
 ---
 
@@ -171,6 +184,18 @@ Item 4  ~ Item 7
 > | :-:| :-: | :-: | 
 > | 강철원 | 신현호 | 이예슬 |  
 
+### 💎 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/230233132-ea04aa9b-0787-476d-8230-bcffeccb2914.png)|![image.png](https://user-images.githubusercontent.com/76567238/230233498-ad116514-8e8a-4825-bc9e-fc35f3719614.png) | 
+:---: | :---: |
+| [📚 Item 46 타입 선언과 관련된 세 가지 버전 이해하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/46_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%EA%B4%80%EB%A0%A8%EB%90%9C%20%EC%84%B8%20%EA%B0%80%EC%A7%80%20%EB%B2%84%EC%A0%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(Item46).pdf)  |  📚 [Item 48  API주석에 TSDoc 사용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/48_API%20%EC%A3%BC%EC%84%9D%EC%97%90%20TSDoc%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2048).pdf)
+
+
+![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png)|![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png) | 
+:---: | :---: |
+| 📚 Item 49 콜백에서 this에 대한 타입 제공하기  <br> <이예슬>  |  📚 
+
+
 ---
 
 <br>
@@ -181,7 +206,19 @@ Item 4  ~ Item 7
 > | :-:| :-: | :-: | 
 > | 신현호 | 이예슬 | 강철원 |  
 
+### 💎 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/230234771-080ebcb5-b43d-4f7c-9344-11674311dd24.png)|![image.png](https://user-images.githubusercontent.com/76567238/230233498-ad116514-8e8a-4825-bc9e-fc35f3719614.png) | 
+:---: | :---: |
+| [📚 Item 50,51 오버로딩 타입보다는 조건부 타입을 사용하기 <br> 의존성 분리를 위해 미러 타입 사용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/50_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2050~51).pdf)  |  📚 Item 52 테스팅 타입의 함정에 주의하기 <br> <이예슬>
+
+![image.png](https://user-images.githubusercontent.com/76567238/230236222-1d0f6c1e-6224-40b6-82ce-f5f0580920c8.png)|![image.png](https://user-images.githubusercontent.com/76567238/230230712-69dfb229-df7f-4e33-9558-f71a6fd73800.png) | 
+:---: | :---: |
+| [📚 Item 53 타입스크립트 기능보다는 ECMAScript 기능을 사용하기  <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/7%EC%9E%A5_%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/53_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%8A%A5%EB%B3%B4%EB%8B%A4%EB%8A%94%20ECMAScript%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD(Item53).pdf)  |  📚 
+
 <br>
+
+---
 
 ## **13주차** ( 3/27 ~ 4/ 2 )
 
