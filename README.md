@@ -246,6 +246,13 @@
 > | :-:| :-: | :-: | 
 > | 신현호 | 강철원 | 이예슬 |  
 
+
+### 💎 발표자료
+
+![image.png](https://user-images.githubusercontent.com/76567238/231157241-d1bdc8ce-387d-4780-8d05-702beb3b798f.png)|![image.png](https://user-images.githubusercontent.com/76567238/231156841-12a5373b-5424-4c35-9338-b85a6b0c5660.png) | 
+:---: | :---: |
+| [📚 Item 61 의존성 관계에 따라 모듈 단위로 전환하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/61_%EC%9D%98%EC%A1%B4%EC%84%B1%20%EA%B4%80%EA%B3%84%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%AA%A8%EB%93%88%20%EB%8B%A8%EC%9C%84%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2061).pdf)  |  [📚 Item 62 마이그레이션의 완성을 위해 noImplicitAny 설정하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/62_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%98%20%EC%99%84%EC%84%B1%EC%9D%84%20%EC%9C%84%ED%95%B4%20noImplicitAny%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB(Item62).pdf)
+
 <br>
 
 ## ✅ 체크리스트 ( 4명 )
