@@ -1,5 +1,8 @@
 # 📚 effective-typescript-study
 
+
+## Season 1 
+
 ![image](https://user-images.githubusercontent.com/76567238/208331585-c19851eb-ce0e-4615-ba93-04b83537567e.png)
 
 ---
@@ -255,14 +258,27 @@
 
 <br>
 
-## ✅ 체크리스트 ( 4명 )
+## Season 2 
 
-| 이름                                                    | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 |8주차 |9주차 |10주차 |11주차 |12주차 |13주차 |
-| ------------------------------------------------------ |:--: | :--: | :--: | :--: | :--: | :--: |  :--: |:--: |:--: |:--: |:--: |:--: |:--: |
-| <center>[강철원](https://github.com/Ryan-dia)</center>  |  ✅  |   ✅  |  ✅ | ✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ |
-| <center>[김민재](https://github.com/D0Dam)</center>     |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |✅ |
-| <center>[신현호](https://github.com/SWARVY)</center>    |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ |
-| <center>[이예슬](https://github.com/Leemainsw)</center> |  ✅  |  ✅  |  ✅  | ✅ |✅ |✅ |✅ |✅ |✅ |✅ |✅ | |✅ |
+
+<br>
+
+## **1주차** ( 4 / 10 ~ 1 / 16 )       
+
+> | Item 3 | Item 4 | Item 5 |Item 6 |
+> | :-:| :-: | :-: | :-: |
+> | 이보리 | 강철원 | 신현호 | 이예슬 | 
+   
+### 💎 발표자료
+
+
+<img width="500px" alt="item 3 썸네일" src="https://user-images.githubusercontent.com/76567238/233845001-929fadb4-f8bc-44cb-ab07-bb8cc9ff65b7.png"> | <img width="500px" alt="item 4 썸네일" src="https://user-images.githubusercontent.com/76567238/233845110-eb7cfe5d-9858-4217-bda2-b0b26b631bcc.png"> 
+| :---: | :---: |
+| [📚 Item 3 코드 생성과 타입이 관계 없음을 이해하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/03_%EC%BD%94%EB%93%9C%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%83%80%EC%9E%85%EC%9D%B4%20%EA%B4%80%EA%B3%84%EC%97%86%EC%9D%8C%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/item3_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)  |  [📚 Item 4 구조적 타이핑에 익숙해지기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/04_%EA%B5%AC%EC%A1%B0%EC%A0%81%20%ED%83%80%EC%9D%B4%ED%95%91%EC%97%90%20%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_Item4(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf) |
+<img width="500px" alt="Item 5 썸네일" src="https://user-images.githubusercontent.com/76567238/233845216-f3ac441f-dbc3-4eef-9703-14104890ed0e.png"> | <img width="500" alt="image" src="https://user-images.githubusercontent.com/76567238/233845311-c72975bc-b26c-43cd-91c4-9aaaca1117db.png">
+|[📚 Item 5 any타입 지양하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/05_any%20%ED%83%80%EC%9E%85%20%EC%A7%80%EC%96%91%ED%95%98%EA%B8%B0/Item5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8ver2.pdf) |  [📚 Item 6 편집기를 사용하여 타입 시스템 탐색하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/06_%ED%8E%B8%EC%A7%91%EA%B8%B0%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0/Item6_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.pdf) |
+
+---
 
 ____
 
