@@ -1,7 +1,12 @@
 # 📚 effective-typescript-study
 
+## [📌 Season 1 (22.12.23 ~ 23.4.8)](#season-1)   
+## [📌 Season 2 (23.4.10 ~ 23.?)](#season-2) 
 
-## Season 1 
+
+<br>
+
+# Season 1 
 
 ![image](https://user-images.githubusercontent.com/76567238/208331585-c19851eb-ce0e-4615-ba93-04b83537567e.png)
 
@@ -257,13 +262,15 @@
 | [📚 Item 61 의존성 관계에 따라 모듈 단위로 전환하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/61_%EC%9D%98%EC%A1%B4%EC%84%B1%20%EA%B4%80%EA%B3%84%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%AA%A8%EB%93%88%20%EB%8B%A8%EC%9C%84%EB%A1%9C%20%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2061).pdf)  |  [📚 Item 62 마이그레이션의 완성을 위해 noImplicitAny 설정하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/62_%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%98%20%EC%99%84%EC%84%B1%EC%9D%84%20%EC%9C%84%ED%95%B4%20noImplicitAny%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB(Item62).pdf)
 
 <br>
+<br>
+<br>
 
-## Season 2 
+# Season 2 
 
 
 <br>
 
-## **1주차** ( 4 / 10 ~ 1 / 16 )       
+## **1주차** ( 4 / 10 ~ 4 / 16 )       
 
 > | Item 3 | Item 4 | Item 5 |Item 6 |
 > | :-:| :-: | :-: | :-: |
@@ -280,7 +287,40 @@
 
 ---
 
+
+
+
 ____
+
+
+<br>
+
+## **2주차** ( 4 / 17 ~ 4 / 23 )       
+
+> | Item 7 | Item 8 | Item 9 |
+> | :-:| :-: | :-: |
+> | 강철원 | 이보리 | 이예슬 | 
+   
+### 💎 발표자료
+
+
+
+
+
+<img width="500px" alt="item 7 썸네일" src="https://user-images.githubusercontent.com/76567238/233845975-5e619722-78bd-4e24-a541-4d544a431767.png"> | <img width="500px" alt="item 8 썸네일" src="https://user-images.githubusercontent.com/76567238/233846062-dd8bbf13-5dbf-4150-b1d4-85120dd2d06b.png"> 
+| :---: | :---: |
+| [📚 Item 7 타입이 값들의 집합이라고 생각하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/07_%ED%83%80%EC%9E%85%EC%9D%B4%20%EA%B0%92%EB%93%A4%EC%9D%98%20%EC%A7%91%ED%95%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB(Item7).pdf)  |  [📚 Item 8 타입 공간과 값 공간의 심벌 구분하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/08_%ED%83%80%EC%9E%85%20%EA%B3%B5%EA%B0%84%EA%B3%BC%20%EA%B0%92%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EC%8B%AC%EB%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0/item8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf) |
+<img width="500px" alt="Item 9 썸네일" src="https://user-images.githubusercontent.com/76567238/233846152-31bfbcaf-dd81-4aac-bfc5-fd3d2428d1bc.png"> | <img width="500" alt="image" src="https://user-images.githubusercontent.com/76567238/233846274-21a0c584-c3f2-4db8-b39e-602a99b068e7.png">
+|[📚 Item 9 타입 단언보다는 타입 선언 사용하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/05_any%20%ED%83%80%EC%9E%85%20%EC%A7%80%EC%96%91%ED%95%98%EA%B8%B0/Item5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8ver2.pdf) |  📚  |
+
+---
+
+### 23.4.23
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/76567238/233845676-26e27a61-2fdb-4387-b671-8e1c8f1702c2.png">
+
+<br>
+
+___
 
 ## Code Samples (source : [링크](https://github.com/danvk/effective-typescript))
 
