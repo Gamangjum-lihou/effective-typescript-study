@@ -315,12 +315,47 @@ ____
 
 ---
 
-### 23.4.23
-<img width="325" alt="image" src="https://user-images.githubusercontent.com/76567238/233845676-26e27a61-2fdb-4387-b671-8e1c8f1702c2.png">
 
 <br>
 
+### 📌 23.4.23
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/76567238/233845676-26e27a61-2fdb-4387-b671-8e1c8f1702c2.png">
+
+<br>
+
+____
+
+
+<br>
+
+## **3주차** ( 4 / 24 ~ 4 / 29 )       
+
+> | Item 10 | Item 11 | Item 12 |
+> | :-:| :-: | :-: |
+> | 강철원 | 신현호 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+<img width="500px" alt="item 10 썸네일" src="https://user-images.githubusercontent.com/76567238/235369710-81f5df24-a514-4eeb-899c-f8b19745e596.png"> | <img width="500px" alt="item 11 썸네일" src="https://user-images.githubusercontent.com/76567238/235369674-78b2bf5d-b3c7-4cee-9f4a-066adaeca69d.png"> 
+| :---: | :---: |
+| [📚 Item 10 객체 래퍼 타입 피하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/10_%EA%B0%9D%EC%B2%B4%20%EB%9E%98%ED%8D%BC%20%ED%83%80%EC%9E%85%20%ED%94%BC%ED%95%98%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_Item10(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)  |  [📚 Item 11 잉여속성 체크의 한계 인지 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/11_%EC%9E%89%EC%97%AC%20%EC%86%8D%EC%84%B1%20%EC%B2%B4%ED%81%AC%EC%9D%98%20%ED%95%9C%EA%B3%84%20%EC%9D%B8%EC%A7%80%ED%95%98%EA%B8%B0/Item11_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8.pdf) |
+<img width="500px" alt="Item 13 썸네일" src="https://user-images.githubusercontent.com/76567238/235369806-6d2afcd2-1ccd-479b-9d7e-28e0a5eac2ae.png"> | <img width="500" alt="공백" src="https://user-images.githubusercontent.com/76567238/233846274-21a0c584-c3f2-4db8-b39e-602a99b068e7.png">
+|[📚 Item 12 함수 표현식에 타입 적용하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/12_%ED%95%A8%EC%88%98%20%ED%91%9C%ED%98%84%EC%8B%9D%EC%97%90%20%ED%83%80%EC%9E%85%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0/item12_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf) |  📚  |
+
+---
+
+<br>
+
+### 📌 23.4.30
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/76567238/235369861-81f9584d-f648-41c8-a275-7d1503c02f28.png">
+
+
 ___
+
+
+<br>
 
 ## Code Samples (source : [링크](https://github.com/danvk/effective-typescript))
 
