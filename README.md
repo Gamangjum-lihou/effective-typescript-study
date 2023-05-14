@@ -384,6 +384,40 @@ ___
 ---
 
 
+
+___
+
+<br>
+
+## **5주차** ( 5 / 8 ~ 5 / 13 )       
+
+> | Item 16 | Item 17 | Item 18 | Item 19 |
+> | :-:| :-: | :-: | :-: |
+> | 이보리 | 채희수 | 신혀호 | 강철원 | 
+
+### 💎 발표자료
+
+
+
+
+<img width="500px" alt="item 16 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/fe2e2453-b145-4a91-84d5-101c8fab45fa"> | <img width="500px" alt="item 17 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/6c1fda99-df21-4904-a459-4b613de89c50"> 
+| :---: | :---: |
+| [📚 Item 16 number 인덱스 시그니처보다는 Array, 튜플, ArrayLink를 사용하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/16_number%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98%EB%B3%B4%EB%8B%A4%EB%8A%94%20Array%2C%ED%8A%9C%ED%94%8C%2CArrayLike%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item16_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)  |  [📚 Item 17 변경 관련된 오류 방지를 위해 readonly <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/17_%EB%B3%80%EA%B2%BD%20%EA%B4%80%EB%A0%A8%EB%90%9C%20%EC%98%A4%EB%A5%98%20%EB%B0%A9%EC%A7%80%EB%A5%BC%20%EC%9C%84%ED%95%B4%20readonly%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item17_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |
+<img width="500px" alt="Item 18 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/f87cfba1-b954-48f7-800b-4cddc349d785"> | <img width="500" alt="Item 19" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/8eb4047f-f18c-45cb-9167-d00034760772">
+|[📚 Item 18 매핑된 타입을 사용하여 값을 동기화하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/18_%EB%A7%A4%ED%95%91%EB%90%9C%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%B4%20%EA%B0%92%EC%9D%84%20%EB%8F%99%EA%B8%B0%ED%99%94%ED%95%98%EA%B8%B0/Item18_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8.pdf) |  [📚 Item 19 추론 가능한 타입을 사용해 장황한 코드 방지하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/19_%EC%B6%94%EB%A1%A0%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%B4%20%EC%9E%A5%ED%99%A9%ED%95%9C%20%EC%BD%94%EB%93%9C%20%EB%B0%A9%EC%A7%80%ED%95%98%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_Item19(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB).pdf)   | 
+
+---
+
+<br>
+
+
+### 📌 23.5.14
+<img width="350" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/5dad3b5e-464e-41f6-8f0b-9d12bedf9a39">
+
+
+---
+
+
 <br>
 
 ## Code Samples (source : [링크](https://github.com/danvk/effective-typescript))
