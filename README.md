@@ -311,7 +311,7 @@ ____
 | :---: | :---: |
 | [📚 Item 7 타입이 값들의 집합이라고 생각하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/07_%ED%83%80%EC%9E%85%EC%9D%B4%20%EA%B0%92%EB%93%A4%EC%9D%98%20%EC%A7%91%ED%95%A9%EC%9D%B4%EB%9D%BC%EA%B3%A0%20%EC%83%9D%EA%B0%81%ED%95%98%EA%B8%B0/%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB(Item7).pdf)  |  [📚 Item 8 타입 공간과 값 공간의 심벌 구분하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/08_%ED%83%80%EC%9E%85%20%EA%B3%B5%EA%B0%84%EA%B3%BC%20%EA%B0%92%20%EA%B3%B5%EA%B0%84%EC%9D%98%20%EC%8B%AC%EB%B2%8C%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0/item8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf) |
 <img width="500px" alt="Item 9 썸네일" src="https://user-images.githubusercontent.com/76567238/233846152-31bfbcaf-dd81-4aac-bfc5-fd3d2428d1bc.png"> | <img width="500" alt="image" src="https://user-images.githubusercontent.com/76567238/233846274-21a0c584-c3f2-4db8-b39e-602a99b068e7.png">
-|[📚 Item 9 타입 단언보다는 타입 선언 사용하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/1%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/05_any%20%ED%83%80%EC%9E%85%20%EC%A7%80%EC%96%91%ED%95%98%EA%B8%B0/Item5_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%8B%A0%ED%98%84%ED%98%B8ver2.pdf) |  📚  |
+|[📚 Item 9 타입 단언보다는 타입 선언 사용하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/09_%ED%83%80%EC%9E%85%20%EB%8B%A8%EC%96%B8%EB%B3%B4%EB%8B%A4%EB%8A%94%20%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item9_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.pdf) |  📚  |
 
 ---
 
@@ -393,7 +393,7 @@ ___
 
 > | Item 16 | Item 17 | Item 18 | Item 19 |
 > | :-:| :-: | :-: | :-: |
-> | 이보리 | 채희수 | 신혀호 | 강철원 | 
+> | 이보리 | 채희수 | 신호 | 강철원 | 
 
 ### 💎 발표자료
 
