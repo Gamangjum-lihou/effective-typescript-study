@@ -385,6 +385,8 @@ ___
 
 
 
+
+
 ___
 
 <br>
@@ -413,6 +415,36 @@ ___
 
 ### 📌 23.5.14
 <img width="350" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/5dad3b5e-464e-41f6-8f0b-9d12bedf9a39">
+
+
+---
+
+<br>
+
+## **6주차** ( 5 / 15 ~ 5 / 20 )       
+
+> | Item 20 | Item 21 | Item 22 |
+> | :-:| :-: | :-: |
+> | 이보리 | 이예슬 | 채희수 | 
+
+### 💎 발표자료
+
+
+
+<img width="500px" alt="item 20 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/7c2ceb48-58b1-4b14-819a-54558df1460c"> | <img width="500px" alt="item 21 썸네일" src=""> 
+| :---: | :---: |
+| [📚 Item 20 다른 타입에는 다른 변수 사용하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/20_%EB%8B%A4%EB%A5%B8%20%ED%83%80%EC%9E%85%EC%97%90%EB%8A%94%20%EB%8B%A4%EB%A5%B8%20%EB%B3%80%EC%88%98%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item20_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)  |  [📚 Item 21 타입 넓히기 <br> <이예슬>]() |
+<img width="500px" alt="Item 22 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/6d0467e9-a8e1-454c-9be8-a79c6df6c60a"> | <img width="500" alt="공백" src="https://user-images.githubusercontent.com/76567238/233846274-21a0c584-c3f2-4db8-b39e-602a99b068e7.png">
+|[📚 Item 22 타입 조힙기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/22_%ED%83%80%EC%9E%85%20%EC%A2%81%ED%9E%88%EA%B8%B0/Item22_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |  📚  |
+
+---
+
+<br>
+
+
+
+### 📌 23.5.21
+<img width="350" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/e824933d-e9cf-4814-8f73-79036d41e198">
 
 
 ---
