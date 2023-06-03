@@ -450,7 +450,73 @@ ___
 ---
 
 
+
+
 <br>
+
+## **7주차** ( 5 / 22 ~ 5 / 27 )       
+
+> | Item 23 | Item 24 | Item 25 |
+> | :-:| :-: | :-: |
+> | 채희수 | 이보리 | 강철원 | 
+
+### 💎 발표자료
+
+
+
+
+<img width="500px" alt="item 23 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/51158295-f396-4d0b-b3a1-8e5173f3f979"> | <img width="500px" alt="item 24 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/e7a3d347-039d-44b7-884d-0e26bb07b9bd"> 
+| :---: | :---: |
+| [📚 Item 23 한꺼번에 객체 생성하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/23_%ED%95%9C%EA%BA%BC%EB%B2%88%EC%97%90%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0/Item23_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B1%84%ED%9D%AC%EC%88%98.pdf)  |  [📚 Item 24 일관성 있는 별칭 사용하기  <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/24_%EC%9D%BC%EA%B4%80%EC%84%B1%20%EC%9E%88%EB%8A%94%20%EB%B3%84%EC%B9%AD%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item24_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf) |
+<img width="500px" alt="Item 25 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/3fab727f-1dc4-43e2-a493-569c59b6ea31"> | <img width="500" alt="공백" src="https://user-images.githubusercontent.com/76567238/233846274-21a0c584-c3f2-4db8-b39e-602a99b068e7.png">
+|[📚 Item 25 비동기 코드에는 콜백 대신 async 함수 사용하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/25_%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%BD%94%EB%93%9C%EC%97%90%EB%8A%94%20%EC%BD%9C%EB%B0%B1%20%EB%8C%80%EC%8B%A0%20async%20%ED%95%A8%EC%88%98%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item%2025%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf) |  📚  |
+
+---
+
+<br>
+
+
+
+### 📌 23.5.28
+<img width="348" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/058083f7-c599-4bbc-9345-20ea1295ce86">
+
+<br>
+
+---
+
+
+
+
+<br>
+
+## **8주차** ( 5 / 29 ~ 6 / 3 )       
+
+> | Item 27 | Item 27 | Item 28 |
+> | :-:| :-: | :-: |
+> | 강철원 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+
+<img width="500px" alt="item 27 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/db295995-3b7f-4de0-9698-c62df4513317"> | <img width="500px" alt="item 27 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/ba63c7b3-5ab1-4e81-a6bb-f5555c5538f8"> 
+| :---: | :---: |
+| [📚 Item 27 한꺼번에 객체 생성하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/27_%ED%95%A8%EC%88%98%ED%98%95%20%EA%B8%B0%EB%B2%95%EA%B3%BC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A1%9C%20%ED%83%80%EC%9E%85%20%ED%9D%90%EB%A6%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0/Item27_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 27 함수형 기법과 라이브러리로 타입 흐름 유지하기  <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/27_%ED%95%A8%EC%88%98%ED%98%95%20%EA%B8%B0%EB%B2%95%EA%B3%BC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A1%9C%20%ED%83%80%EC%9E%85%20%ED%9D%90%EB%A6%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0/Item27_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |
+<img width="500px" alt="Item 28 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/b27753ea-64a4-4cff-8d0c-673dc97f7c11"> | <img width="500" alt="공백" src="https://user-images.githubusercontent.com/76567238/233846274-21a0c584-c3f2-4db8-b39e-602a99b068e7.png">
+|[📚 Item 28 유효한 상태만 표현하는 타입을 지향하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/28_%EC%9C%A0%ED%9A%A8%ED%95%9C%20%EC%83%81%ED%83%9C%EB%A7%8C%20%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A7%80%ED%96%A5%ED%95%98%EA%B8%B0/item28_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf) |  📚  |
+
+---
+
+<br>
+
+
+
+### 📌 23.6.3
+<img width="348" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/058083f7-c599-4bbc-9345-20ea1295ce86">
+
+---
+<bt>
 
 ## Code Samples (source : [링크](https://github.com/danvk/effective-typescript))
 
