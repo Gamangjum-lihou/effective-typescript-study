@@ -478,7 +478,8 @@ ___
 
 
 ### 📌 23.5.28
-<img width="348" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/058083f7-c599-4bbc-9345-20ea1295ce86">
+<img width="345" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/c8b84cf5-3c4f-4ba3-a1f3-612d36c25edc">
+
 
 <br>
 
