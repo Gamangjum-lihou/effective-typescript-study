@@ -1,7 +1,7 @@
 # 📚 effective-typescript-study
 
 ## [📌 Season 1 (22.12.23 ~ 23.4.8)](#season-1)   
-## [📌 Season 2 (23.4.10 ~ 23.?)](#season-2) 
+## [📌 Season 2 (23.4.10 ~ 23.8)](#season-2) 
 
 
 <br>
