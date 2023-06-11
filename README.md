@@ -350,10 +350,12 @@ ___
 <img width="500px" alt="Item 10 객체 래퍼 타입 피하기 썸네일" src="https://user-images.githubusercontent.com/48716775/227767847-7429ded1-c17d-457e-9111-9416f9bedbfa.png"> | <img width="500px" alt="Item 11 잉여 속성 체크의 한계 인지하기 썸네일" src="https://user-images.githubusercontent.com/48716775/227767870-4b3c6307-e12f-466c-a319-6033405c4560.png"> | 
 :---: | :---: |
 | [📚 Item 10 객체 래퍼 타입 피하기 <br> <김민재>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/10_%EA%B0%9D%EC%B2%B4%20%EB%9E%98%ED%8D%BC%20%ED%83%80%EC%9E%85%20%ED%94%BC%ED%95%98%EA%B8%B0/Item10_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EA%B9%80%EB%AF%BC%EC%9E%AC.pptx)  | [📚 Item 11 잉여 속성 체크의 한계 인지하기 <br> <이예슬>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/2%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98%20%ED%83%80%EC%9E%85%20%EC%8B%9C%EC%8A%A4%ED%85%9C/11_%EC%9E%89%EC%97%AC%20%EC%86%8D%EC%84%B1%20%EC%B2%B4%ED%81%AC%EC%9D%98%20%ED%95%9C%EA%B3%84%20%EC%9D%B8%EC%A7%80%ED%95%98%EA%B8%B0/Item11_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EC%98%88%EC%8A%AC.pdf) | 
+
 ---
 
+<br>
 
-> **4주차** ( 1 / 16 ~ 1 / 20 ) 
+## **4주차** ( 1 / 16 ~ 1 / 20 ) 
 
 > | Item 12 | Item 13 | Item 14 | Item 15 |
 > | :-:| :-: | :-: | :-: | 
