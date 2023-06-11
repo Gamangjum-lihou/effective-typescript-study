@@ -514,7 +514,39 @@ ___
 
 
 ### 📌 23.6.3
-<img width="348" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/058083f7-c599-4bbc-9345-20ea1295ce86">
+<img width="335" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/5c6a56c4-54ec-4a6e-8258-0875a79ebb95">
+
+---
+
+<br>
+
+## **9주차** ( 6 / 4 ~ 6 / 10 )       
+
+> | Item 26 | Item 29 | Item 30 | Item 31 |
+> | :-:| :-: | :-: |:-: |
+> | 강철원 | 신현호 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+
+
+
+<img width="500px" alt="item 26 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/aa4922ce-609d-4f19-8a57-810ade7974ad"> | <img width="500px" alt="item 29 업데이트 대기중" src=""> 
+| :---: | :---: |
+| [📚 Item 26 타입 추론에 문맥이 어떻게 사용되는지 이해하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/3%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0/26_%ED%83%80%EC%9E%85%20%EC%B6%94%EB%A1%A0%EC%97%90%20%EB%AC%B8%EB%A7%A5%EC%9D%B4%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%EC%A7%80%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/Item26_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 29 사용할 때는 너그럽게, 생성할 때는 엄격하게  <br> <신현호>]() |
+<img width="500px" alt="Item 30 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/e93cf0bb-d982-4315-9ac6-ecb1de6928d1"> | <img width="500" alt="공백" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/f3fdad50-595c-40dd-af76-c4fc34782aaa">
+|[📚 Item 30 문서의 타입 정보를 쓰지 않기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/28_%EC%9C%A0%ED%9A%A8%ED%95%9C%20%EC%83%81%ED%83%9C%EB%A7%8C%20%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%A7%80%ED%96%A5%ED%95%98%EA%B8%B0/item28_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf) |  [📚 Item 31 타입 주변에 null 값 배치하기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/31_%ED%83%80%EC%9E%85%20%EC%A3%BC%EB%B3%80%EC%97%90%20null%20%EA%B0%92%20%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/item31_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+
+---
+
+<br>
+
+
+
+### 📌 23.6.11
+<img width="353" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/a73c5106-db68-4219-b0eb-159914c00862">
 
 ---
 <bt>
