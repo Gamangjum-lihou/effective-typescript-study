@@ -294,6 +294,38 @@ ___
 ---
 
 <br>
+
+## **10주차** ( 6 / 11 ~ 6 / 15 )       
+
+> | Item 32 | Item 33 | Item 34 | Item 35 |
+> | :-:| :-: | :-: |:-: |
+> | 강철원 | 신현호 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+
+
+<img width="500px" alt="item 32 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/0f580fff-89c0-4d73-8223-467472aadff4"> | <img width="500px" alt="item 33 업데이트 대기중" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/12583a53-d9b1-41b4-8940-ab1589d3cfd8"> 
+| :---: | :---: |
+| [📚 Item 32 유니온의 인터페이스보다는 인터페이스의 유니온을 사용하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/32_%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%98%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EC%9C%A0%EB%8B%88%EC%98%A8%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item32_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 33 string 타입보다 더 구체적인 타입 사용하기  <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/33_string%20%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%20%EB%8D%94%20%EA%B5%AC%EC%B2%B4%EC%A0%81%EC%9D%B8%20%ED%83%80%EC%9E%85%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2033).pdf) |
+<img width="500px" alt="Item 34 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/7c6d941a-e31b-408c-86b2-016e2d75d42c"> | <img width="500" alt="Item 35" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/c91765fd-6199-43b7-a365-e8b377bcbcdd">
+|[📚 Item 34 부정확한 타입보다는 미완성 타입을 사용하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/34_%20%EB%B6%80%EC%A0%95%ED%99%95%ED%95%9C%20%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EB%AF%B8%EC%99%84%EC%84%B1%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item34_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B1%84%ED%9D%AC%EC%88%98.pdf) |  [📚 Item 35 데이터가 아닌, API와 명세를 보고 타입 만들기 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/4%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A4%EA%B3%84/35_%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80%20%EC%95%84%EB%8B%8C%20API%EC%99%80%20%EB%AA%85%EC%84%B8%EB%A5%BC%20%EB%B3%B4%EA%B3%A0%20%ED%83%80%EC%9E%85%20%EB%A7%8C%EB%93%A4%EA%B8%B0/item35_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+
+---
+
+<br>
+
+
+
+### 📌 23.6.16
+<img width="315" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/200e3afb-e392-4dec-9985-0d9b4ffb00ec">
+
+
+---
+
+<br>
 <br>
 <br>
 
