@@ -1,7 +1,8 @@
 # 📚 effective-typescript-study
 
-## [📌 Season 1 (22.12.23 ~ 23.04.08)](#season-1)   
-## [📌 Season 2 (23.04.10 ~ 23.08)](#season-2) 
+## [📌 Season 2 (23.04.10 ~ 23.08) 🚀 to Wiki](https://github.com/Gamangjum-lihou/effective-typescript-study/wiki) 
+## [📌 Season 1 (22.12.23 ~ 23.04.08)  🚀 to Wiki ](https://github.com/Gamangjum-lihou/effective-typescript-study/wiki/Season-1)   
+
 
 
 <br>
