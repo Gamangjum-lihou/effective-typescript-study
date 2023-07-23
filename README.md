@@ -386,7 +386,7 @@ ___
 | :---: | :---: |
 | [📚 Item 40 함수 안으로 타입 단언문 감추기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/40_%ED%95%A8%EC%88%98%20%EC%95%88%EC%9C%BC%EB%A1%9C%20%ED%83%80%EC%9E%85%20%EB%8B%A8%EC%96%B8%EB%AC%B8%20%EA%B0%90%EC%B6%94%EA%B8%B0/Item40_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 41 any의 진화를 이해하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/41_any%EC%9D%98%20%EC%A7%84%ED%99%94%EB%A5%BC%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(Item%2041_2).pdf) |
 <img width="500px" alt="Item 42 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/b507473a-ec8b-4ff7-8470-311eb4f7f768"> | <img width="500" alt="Item 39" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/9ab7d9d5-232f-4eb6-82af-2eee987c154f">
-|[📚 Item 42 모르는 타입의 값에는 any 대신 unknown 사용하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/42_%EB%AA%A8%EB%A5%B4%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%98%20%EA%B0%92%EC%97%90%EB%8A%94%20any%20%EB%8C%80%EC%8B%A0%20unknown%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item42_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |  [📚 Item 43 any 다루기 🏆 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/43_%EB%AA%BD%ED%82%A4%20%ED%8C%A8%EC%B9%98%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%95%88%EC%A0%84%ED%95%9C%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item43_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+|[📚 Item 42 모르는 타입의 값에는 any 대신 unknown 사용하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/42_%EB%AA%A8%EB%A5%B4%EB%8A%94%20%ED%83%80%EC%9E%85%EC%9D%98%20%EA%B0%92%EC%97%90%EB%8A%94%20any%20%EB%8C%80%EC%8B%A0%20unknown%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item42_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |  [📚 Item 47 공개 API에 등장하는 모든 타입을 익스포트 하기🏆 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/43_%EB%AA%BD%ED%82%A4%20%ED%8C%A8%EC%B9%98%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%95%88%EC%A0%84%ED%95%9C%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item43_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
 
 ---
 
@@ -398,6 +398,62 @@ ___
 
 <img width="347" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/6dfb958d-4f76-4e98-a25d-9351d3b8d280">
 
+
+
+---
+
+<br>
+<br>
+<br>
+
+
+## **13주차** ( 7 / 10 ~ 7 / 15 )       
+
+Toss-Next Challenge 2023 코드 리뷰 및 Effective typescript 적용해보기
+
+
+<br>
+
+
+### 📌 23.7.16
+
+<img width="347" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/b707b0e0-ec0c-4fbd-aee6-7fed35144f00">
+
+----
+
+<br>
+<br>
+<br>
+
+
+
+## **14주차** ( 7 / 17 ~ 7 / 22 )       
+
+> | Item 44 | Item 45 | Item 46 | Item 47 |
+> | :-:| :-: | :-: |:-: |
+> | 강철원 | 신현호 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+
+
+<img width="500px" alt="item 44 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/85404ffd-e1d2-4e43-a993-3f1ee0225b3e"> | <img width="500px" alt="item 45 " src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/8975f4f5-5cea-48ee-ba93-4e97a59d08b9"> 
+| :---: | :---: |
+| [📚 Item 44 타입 커버리지를 추적하여 타입 안정성 유지하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/5%EC%9E%A5_any%20%EB%8B%A4%EB%A3%A8%EA%B8%B0/44_%ED%83%80%EC%9E%85%20%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80%EB%A5%BC%20%EC%B6%94%EC%A0%81%ED%95%98%EC%97%AC%20%ED%83%80%EC%9E%85%20%EC%95%88%EC%A0%84%EC%84%B1%20%EC%9C%A0%EC%A7%80%ED%95%98%EA%B8%B0/Item44_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 45 devDependencies에 typescript와 @types 추가하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/45_devDependencies%EC%97%90%20typescript%EC%99%80%20%40types%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2045).pdf) |
+<img width="500px" alt="Item 46 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/0d87a312-6246-40f1-9392-90993bbb8839"> | <img width="500" alt="Item 47" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/c53eb7ca-9659-41f1-83ec-82640e1991a8">
+|[📚 Item 46 모르는 타입의 값에는 any 대신 unknown 사용하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/46_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%EA%B4%80%EB%A0%A8%EB%90%9C%20%EC%84%B8%20%EA%B0%80%EC%A7%80%20%EB%B2%84%EC%A0%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/item46_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |  [📚 Item 47 공개 API에 등장하는 모든 타입을 익스포트 하기 🏆 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/47_%20%EA%B3%B5%EA%B0%9C%20API%EC%97%90%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EB%AA%A8%EB%93%A0%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%9D%B5%EC%8A%A4%ED%8F%AC%ED%8A%B8%20%ED%95%98%EA%B8%B0/item47_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+
+---
+
+<br>
+
+
+
+### 📌 23.7.23
+
+<img width="329" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/cda8ddf2-acbd-41a6-a704-f862c96a6a76">
 
 
 ---
