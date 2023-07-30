@@ -462,6 +462,44 @@ Toss-Next Challenge 2023 코드 리뷰 및 Effective typescript 적용해보기
 <br>
 <br>
 
+
+## **15주차** ( 7 / 24 ~ 7 / 29 )       
+
+> | Item 48 | Item 49 | Item 50 | Item 51 |
+> | :-:| :-: | :-: |:-: |
+> | 강철원 | 신현호 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+
+
+
+<img width="500px" alt="item 48 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/1420f13d-1e40-4ecb-9ea9-da6b55795094"> | <img width="500px" alt="item 49 " src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/76e018e6-67ef-40bf-b28d-d92ed82dc65d"> 
+| :---: | :---: |
+| [📚 Item 48 API 주석에 TSDoc 사용하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/48_API%20%EC%A3%BC%EC%84%9D%EC%97%90%20TSDoc%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/Item48_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 49 콜백에서 this에 대한 타입 제공하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/49_%EC%BD%9C%EB%B0%B1%EC%97%90%EC%84%9C%20this%EC%97%90%20%EB%8C%80%ED%95%9C%20%ED%83%80%EC%9E%85%20%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2049).pdf) |
+<img width="500px" alt="Item 50 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/293132e7-01c9-446a-817a-0b3666492b47"> | <img width="500" alt="Item 47" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/fe17b6c6-88d4-49b9-ac34-74f25817a990">
+|[📚 Item 50 오버로딩 타입보다는 조건부 타입을 사용하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/50_%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%ED%83%80%EC%9E%85%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%A1%B0%EA%B1%B4%EB%B6%80%20%ED%83%80%EC%9E%85%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item50_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |  [📚 Item 51 의존성 분리를 위해 미러 타입 사용하기 🏆 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/51_%EC%9D%98%EC%A1%B4%EC%84%B1%20%EB%B6%84%EB%A6%AC%EB%A5%BC%20%EC%9C%84%ED%95%B4%20%EB%AF%B8%EB%9F%AC%20%ED%83%80%EC%9E%85%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/item51_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+
+---
+
+<br>
+
+
+
+### 📌 23.7.30
+
+<img width="324" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/88fdeaa4-d158-48ba-84bf-5a88abcb7849">
+
+
+
+---
+
+<br>
+<br>
+<br>
+
 # Season 1 
 
 
