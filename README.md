@@ -409,7 +409,16 @@ ___
 
 ## **13주차** ( 7 / 10 ~ 7 / 15 )       
 
-Toss-Next Challenge 2023 코드 리뷰 및 Effective typescript 적용해보기
+<br>
+
+### 💎 Toss-Next Challenge 2023 코드 리뷰 및 Effective typescript 적용해보기
+
+<img width="580" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/81104ecb-6476-477f-ab0b-e414e40bf53e">
+<br>
+<br>
+
+---
+
 
 
 <br>
