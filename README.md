@@ -481,7 +481,6 @@ ___
 ### 💎 발표자료
 
 
-<img width="1016" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/8fcc8edf-357c-41b9-9cd7-bad782e7a001">
 
 
 
