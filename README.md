@@ -481,6 +481,7 @@ ___
 ### 💎 발표자료
 
 
+<img width="1016" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/8fcc8edf-357c-41b9-9cd7-bad782e7a001">
 
 
 
@@ -499,11 +500,42 @@ ___
 
 ### 📌 23.7.30
 
-<img width="324" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/88fdeaa4-d158-48ba-84bf-5a88abcb7849">
-
 
 
 ---
+
+
+<br>
+<br>
+<br>
+
+
+## **16주차** ( 7 / 31 ~ 8 / 5 )       
+
+> | Item 52 | Item 53 | Item 54 | Item 55 |
+> | :-:| :-: | :-: |:-: |
+> | 강철원 | 신현호 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+<img width="500px" alt="item 52 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/e0c21a89-bdb3-4cb8-b8cb-94b322079ade"> | <img width="500px" alt="item 53 " src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/8ff9b982-cd09-4ea0-b255-764378c44b78"> 
+| :---: | :---: |
+| [📚 Item 52 테스팅 타입의 함정에 주의하기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/6%EC%9E%A5_%ED%83%80%EC%9E%85%20%EC%84%A0%EC%96%B8%EA%B3%BC%20%40types/52_%ED%85%8C%EC%8A%A4%ED%8C%85%20%ED%83%80%EC%9E%85%EC%9D%98%20%ED%95%A8%EC%A0%95%EC%97%90%20%EC%A3%BC%EC%9D%98%ED%95%98%EA%B8%B0/Item52_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 53 타입스크립트 기능보다는 ECMAScript 기능을 사용하기 <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/7%EC%9E%A5_%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/53_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EA%B8%B0%EB%8A%A5%EB%B3%B4%EB%8B%A4%EB%8A%94%20ECMAScript%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C(item%2053).pdf) |
+<img width="500px" alt="Item 54 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/d4406f25-38da-4df5-9d0e-389034e60d23"> | <img width="500" alt="Item 55" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/8fcc8edf-357c-41b9-9cd7-bad782e7a001">
+|[📚 Item 54 객체를 순회하는 노하우 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/7%EC%9E%A5_%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/54_%EA%B0%9D%EC%B2%B4%EB%A5%BC%20%EC%88%9C%ED%9A%8C%ED%95%98%EB%8A%94%20%EB%85%B8%ED%95%98%EC%9A%B0/Item54_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%B1%84%ED%9D%AC%EC%88%98.pdf) |  [📚 Item 55 DOM 계층 구조 이해하기 🏆 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/7%EC%9E%A5_%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/55_DOM%20%EA%B3%84%EC%B8%B5%20%EA%B5%AC%EC%A1%B0%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/item55_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+
+---
+
+<br>
+
+
+
+### 📌 23.8.6
+
+
+<img width="322" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/567c2a20-3329-4bd9-b896-ee940a8fa583">
 
 <br>
 <br>
