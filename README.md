@@ -498,6 +498,7 @@ ___
 
 
 ### 📌 23.7.30
+<img width="319" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/acab45d0-aeb4-4792-8ac3-d831f75c93ef">
 
 
 
