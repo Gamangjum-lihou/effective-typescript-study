@@ -541,6 +541,38 @@ ___
 <br>
 <br>
 
+## **17주차** ( 8 / 7 ~ 8 / 12 )       
+
+> | Item 56 | Item 57 | Item 58 | Item 59 |
+> | :-:| :-: | :-: |:-: |
+> | 강철원 | 신현호 | 채희수 | 이보리 | 
+
+### 💎 발표자료
+
+
+
+<img width="500px" alt="item 56 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/4f028e90-6989-46ea-a364-7b90adcc18c4"> | <img width="500px" alt="item 53 " src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/32df3e55-d3d0-4653-ae8d-42dfd31079f0"> 
+| :---: | :---: |
+| [📚 Item 56 정보를 감추는 목적으로 private 사용하지 않기 <br> <강철원>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/7%EC%9E%A5_%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/56_%EC%A0%95%EB%B3%B4%EB%A5%BC%20%EA%B0%90%EC%B6%94%EB%8A%94%20%EB%AA%A9%EC%A0%81%EC%9C%BC%EB%A1%9C/Item56_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8E%E1%85%A5%E1%86%AF%E1%84%8B%E1%85%AF%E1%86%AB.pdf)  |  [📚 Item 57 소스맵을 사용하여 타입스크립트 디버깅하기  <br> <신현호>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/7%EC%9E%A5_%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B3%A0%20%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/57_%EC%86%8C%EC%8A%A4%EB%A7%B5%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0/%EC%8B%A0%ED%98%84%ED%98%B8%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20(Item%2057).pdf) |
+<img width="500px" alt="Item 58 썸네일" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/6ea25af6-eb2f-4070-892d-a4fa2b67a070"> | <img width="500" alt="Item 55" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/36dcb040-d2a0-4774-bc1d-b7939da762c1">
+|[📚 Item 58 모던 자바스크립트로 작성하기 <br> <채희수>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/58_%EB%AA%A8%EB%8D%98%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0/Item58_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD_%E1%84%8E%E1%85%A2%E1%84%92%E1%85%B4%E1%84%89%E1%85%AE.pdf) |  [📚 Item 59 타입스크립트 도입 전에 @ts-check와 JSDoc으로 시험해 보기 🏆 <br> <이보리>](https://github.com/Gamangjum-lihou/effective-typescript-study/blob/main/docs/8%EC%9E%A5_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C%20%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0/59_%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EB%8F%84%EC%9E%85%20%EC%A0%84%EC%97%90%20%40ts-check%EC%99%80%20JSDoc%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%ED%97%98%ED%95%B4%20%EB%B3%B4%EA%B8%B0/item59_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%9D%B4%EB%B3%B4%EB%A6%AC.pdf)   |
+
+---
+
+<br>
+
+
+
+### 📌 23.8.13
+
+
+<img width="328" alt="image" src="https://github.com/Gamangjum-lihou/effective-typescript-study/assets/76567238/d84aef84-24df-4680-a9a8-c341f068f25d">
+
+
+<br>
+<br>
+<br>
+
 # Season 1 
 
 
